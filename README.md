@@ -95,7 +95,8 @@ There were 4 categorize of chest pain in our dataset.
 Type 1: Typical angina. Type 2: Atypical angina. Type 3: Non-anginal pain. Type 4: Asymptomatic. We saw most patients who had non-anginal type of chest pain had the highest ratio heart disease followed by atypical angina, and asymptomatic. Patients with typical angina had the lowest heart disease ratio, and at the same time approximately 497 of patients of the dataset have typical angina. From those only about 120 have heart disease. 
 
 #### Max Heart Rate: 
-Which is number of major vessels (0–4) colored by fluoroscopy. Fluoroscopy is used to help the healthcare provider see the flow of blood through the coronary arteries to check for arterial blockages. Based on evaluation patients who fall in 0 category have highest heart disease ratio, followed 4 category which was the lowest number of patients but high ratio. Category 3 had least number of patents who had heart disease. Category 1 and 2 were almost the same in terms of ratio, but also had high number of heart disease patients followed category 0.
+
+
 
 #### Thalassemia: 
 Is a blood disorder passed down through families (inherited) in which the body makes an abnormal form or inadequate amount of hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen. The disorder results in large numbers of red blood cells being destroyed, which leads to anemia. Our finding showed most patients fall on either category 2 or 3. Category 2 had largest number of patients and most patients who were in this category had heart diseases compare to other categories. Category 3 had largest number of patients who did not have heart disease. The fewest patient category was 0, only 7 patients were in this category. 
