@@ -6,13 +6,14 @@ It is anticipated that the development of computation methods that can predict t
 
 Heart disease is currently the leading cause of death across the globe. Prediction of cardiovascular disease is regarded as one of the most important subjects in the section of clinical data analysis. This makes heart disease a major concern to be dealt with. But it is difficult to identify heart disease because of several contributory risk factors such as diabetes, high blood pressure, high cholesterol, abnormal pulse rate, and many other factors. Due to such constraints, scientists have turned towards modern approaches like Machine Learning for predicting the disease.
 
-#### In this project, we will go through the dataset and see: 
+This dataset contains some medical information of patients which tells whether that person getting a heart attack chance is less or more. Using the information, we want to explore the dataset and classify the target variable and use different Machine Learning models and find out which model and metric is best suitable for this dataset, and lastly if the dataset useful for future heart disease predictions.  
+
+
+#### Also, in this project, we will go through the dataset to see: 
 
 1. Which age group had most heart disease?
 2. Is male more likely to have heart disease than female?
 3. What are the top features?
-4. Which metric or model works best for our data and predicting heart disease?
-5. Is this this data useful for future heart diseases predictions?
 
 #### The project consists of 5 phases:
 
@@ -75,7 +76,7 @@ No major issue with our data. Our dataset didn’t have any null or nan values. 
 
 ## Analysis
 
-After formatting our data into a useable state, we used various categorization and statistical analysis methods to find answers to our business questions. 
+   After formatting our data into a useable state, we used various categorization and statistical analysis methods to find answers to our business questions. We took different machine learning algorithm and tried to find algorithm which predict accurately. We used K-Nearest Neighbor, Logistic Regression, Random Forest Classifier, and Decision Tree Classifier. Also, for our metric classification we chose Recall. The reason we chose Recall was because we don’t want to accidentally discharge a heart disease patient. Also, we wanted to classify the maximum number of patients who end up having a cardiac disease with the positive class. After we ran several models, Random Forest Classifier had the highest score in our model testing.
 
 #### 1. Which age group had the highest heart disease?
 
@@ -100,13 +101,7 @@ Which is number of major vessels (0–4) colored by fluoroscopy. Fluoroscopy is 
 #### Thalassemia: 
 Is a blood disorder passed down through families (inherited) in which the body makes an abnormal form or inadequate amount of hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen. The disorder results in large numbers of red blood cells being destroyed, which leads to anemia. Our finding showed most patients fall on either category 2 or 3. Category 2 had largest number of patients and most patients who were in this category had heart diseases compare to other categories. Category 3 had largest number of patients who did not have heart disease. The fewest patient category was 0, only 7 patients were in this category. 
 
-#### 4. Which metric or model works best for our data and predicting heart disease?
-
-We took different machine learning algorithm and tried to find algorithm which predict accurately. We used K-Nearest Neighbor, Logistic Regression, Random Forest Classifier, and Decision Tree Classifier. Also, for our metric classification we chose Recall. The reason we chose Recall was because we don’t want to accidentally discharge a heart disease patient. Also, we wanted to classify the maximum number of patients who end up having a cardiac disease with the positive class. After we ran several models, Random forest Classifier had the highest score in our testing followed by Decision Tree Classifier, so Random Forest Classifier is our model of choice
-
-#### 5. Is this this data useful for future heart diseases predictions?
-
-In our opinion it is very hard to tell because we were getting very high accuracy score in most on our models which is a good news, but at the same time we want to make sure our model is not biased or doesn’t have duplicated data, so because of that it needs further investigation to rule out those assumptions. We feel more comfortable if we can get more patients data sample to make sure our model is accurate in predicting heart disease.  
+   After analyzing the data it is very hard to tell if our dataset useful for future heart disease prediction because we were getting very high accuracy score in most on our models which is a good news, but at the same time we want to make sure our model is not biased or doesn’t have duplicated data, so because of that it needs further investigation to rule out those assumptions. We feel more comfortable if we can get more patients data sample to make sure our model is accurate in predicting heart disease.   
 
 ## Conclusion
 
