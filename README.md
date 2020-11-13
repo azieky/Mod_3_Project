@@ -92,14 +92,16 @@ Based on our analyzation Chest Pain, Major Vessels, and Thalassemia were our top
 
 #### Chest Pain: 
 There were 4 categorize of chest pain in our dataset.  
-Type 1: Typical angina. Type 2: Atypical angina. Type 3: Non-anginal pain. Type 4: Asymptomatic. We saw most patients who had non-anginal type of chest pain had the highest ratio heart disease followed by atypical angina, and asymptomatic. Patients with typical angina had the lowest heart disease ratio, and at the same time approximately 497 of patients of the dataset have typical angina. From those only about 120 have heart disease. 
+Type 1: Typical angina. Type 2: Atypical angina. Type 3: Non-anginal pain. Type 4: Asymptomatic. We saw most patients who had non-anginal type of chest pain had the highest ratio heart disease followed by atypical angina, and asymptomatic. Patients with typical angina had the lowest heart disease ratio, and at the same time approximately 143 of patients of the dataset have typical angina. 
+
 
 #### Max Heart Rate: 
 Displays the max heart rate achieved by an individual. In our analyzation should that the increase in cardiovascular risk, associated with the acceleration of heart rate, was comparable to the increase in risk observed with high blood pressure. 
 
 #### Thalassemia: 
-Is a blood disorder passed down through families (inherited) in which the body makes an abnormal form or inadequate amount of hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen. The disorder results in large numbers of red blood cells being destroyed, which leads to anemia. Our finding showed most patients fall on either category 2 or 3. Category 2 had largest number of patients and most patients who were in this category had heart diseases compare to other categories. Category 3 had largest number of patients who did not have heart disease. The fewest patient category was 0, only 7 patients were in this category. 
+Is a blood disorder passed down through families (inherited) in which the body makes an abnormal form or inadequate amount of hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen. The disorder results in large numbers of red blood cells being destroyed, which leads to anemia. Our finding showed most patients fall on either category 2 or 3. Category 2 had largest number of patients and most patients who were in this category had heart diseases compare to other categories. Category 3 had largest number of patients who did not have heart disease. The fewest patient category was 0, only 2 patients were in this category. 
 
+   
    After analyzing the data and getting unusual high scores in our models, which is good to have high scores, but at the same time we want to make sure our model is not biased or doesn’t have duplicated data, so because of that we did further investigation to rule out those assumptions. After we investigated, we found out there were 723 duplications in the dataset.  Unfortunately, because of that we had to eliminate those data to make sure our dataset is clean and unbiased for prediction. At this stage, we feel more comfortable if we can get more patients data sample to make sure our model is accurate in predicting heart disease.      
 
 ## Conclusion
