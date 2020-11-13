@@ -96,10 +96,11 @@ Based on our analyzation Chest Pain, Max Heart Rate, and Thalassemia were our to
 #### Chest Pain: 
 
 There were 4 categorize of chest pain in our dataset.  
-Type 1: Typical angina. Type 2: Atypical angina. Type 3: Non-anginal pain. Type 4: Asymptomatic. We saw most patients who had non-anginal type of chest pain had the highest ratio heart disease followed by atypical angina, and asymptomatic. Patients with typical angina had the lowest heart disease ratio, and at the same time approximately 143 of patients of the dataset have typical angina. 
+Type 1: Typical angina. Type 2: Atypical angina. Type 3: Non-anginal pain. Type 4: Asymptomatic. We saw most patients who had non-anginal type of chest pain had the highest ratio heart disease followed by atypical angina, and asymptomatic. Patients with typical angina had the lowest heart disease ratio. We also saw that patients who have Chest Pain value in type 2, type 3 or type 4 have more heart disease probability.
 
 ![alt text](data_visualizations/cp.png)
 
+![Unknown-2](https://user-images.githubusercontent.com/62824675/99044922-6573ef80-2545-11eb-8056-606730438abf.png)
 
 #### Max Heart Rate: 
 
