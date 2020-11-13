@@ -103,11 +103,11 @@ Type 1: Typical angina. Type 2: Atypical angina. Type 3: Non-anginal pain. Type 
 
 #### Max Heart Rate: 
 
-Displays the max heart rate achieved by an individual. In our analyzation we saw that the increase in cardiovascular risk, associated with the acceleration of heart rate, was comparable to the increase in risk observed with high blood pressure. 
+Displays the max heart rate achieved by an individual. In our analyzation should that the increase in cardiovascular risk, associated with the acceleration of heart rate, was comparable to the increase in risk observed with high blood pressure. Another finding that we found was, as you can see in the bar plot below, as age increases the Max Heart Rate decreases. To get the maximum heart rate you have to subtract age from 220. This is the average maximum number of times heart should beat per minute during exercise. 
 
 ![alt text](data_visualizations/Max_Heart_Rate_1.png)
 
-![alt text](data_visualizations/Max_Heart_Rate_2.png)
+![Unknown](https://user-images.githubusercontent.com/62824675/99043289-fac1b480-2542-11eb-8aae-4e553bcadc07.png)
 
 #### Thalassemia: 
 
