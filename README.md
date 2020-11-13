@@ -94,6 +94,7 @@ Our data shows that males are more likely to get heart disease than females. We 
 Based on our analyzation Chest Pain, Max Heart Rate, and Thalassemia were our top features in heart disease. 
 
 #### Chest Pain: 
+
 There were 4 categorize of chest pain in our dataset.  
 Type 1: Typical angina. Type 2: Atypical angina. Type 3: Non-anginal pain. Type 4: Asymptomatic. We saw most patients who had non-anginal type of chest pain had the highest ratio heart disease followed by atypical angina, and asymptomatic. Patients with typical angina had the lowest heart disease ratio, and at the same time approximately 143 of patients of the dataset have typical angina. 
 
@@ -101,6 +102,7 @@ Type 1: Typical angina. Type 2: Atypical angina. Type 3: Non-anginal pain. Type 
 
 
 #### Max Heart Rate: 
+
 Displays the max heart rate achieved by an individual. In our analyzation should that the increase in cardiovascular risk, associated with the acceleration of heart rate, was comparable to the increase in risk observed with high blood pressure. 
 
 ![alt text](data_visualizations/Max_Heart_Rate_1.png)
@@ -108,7 +110,11 @@ Displays the max heart rate achieved by an individual. In our analyzation should
 ![alt text](data_visualizations/Max_Heart_Rate_2.png)
 
 #### Thalassemia: 
-Is a blood disorder passed down through families (inherited) in which the body makes an abnormal form or inadequate amount of hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen. The disorder results in large numbers of red blood cells being destroyed, which leads to anemia. Our finding showed most patients fall on either category 2 or 3. Category 2 had largest number of patients and most patients who were in this category had heart diseases compare to other categories. Category 3 had largest number of patients who did not have heart disease. The fewest patient category was 0, only 2 patients were in this category. 
+
+Is a blood disorder passed down through families (inherited) in which the body makes an abnormal form or inadequate amount of hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen. The disorder results in large numbers of red blood cells being destroyed, which leads to anemia. 
+
+Our finding showed most patients were either classified Reversable Defect Thalassemia or Normal. Reversable Defect Thalassemia had the largest number of patients and the most patients who were in this category most likely had heart diseases in compare to the other categories. Normal group had the largest number of patients who did not have heart disease. The smallest category was Fixed Defect which had the lowest number of patients and heart disease
+
 
 ![alt text](data_visualizations/Thalassemia1.png)
 
