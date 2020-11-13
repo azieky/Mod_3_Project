@@ -50,7 +50,7 @@ This dataset contains some medical information of patients which tells whether t
 
 ## DataSet
 
-The objective of this project is to build a model to predict whether a person diagnose a heart disease based on pattern extracted from analyzing 13 descriptive features plus 1 target column and 1025 observation found in Cleveland, Hungary, Switzerland, and Long Beach V data set from Kaggle website. The "target" column refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
+The objective of this project is to build a model to predict whether a person diagnose a heart disease based on pattern extracted from analyzing 13 descriptive features plus 1 target column and 1025 observation found in Cleveland, Hungary, Switzerland, and Long Beach V dataset from Kaggle website. The "target" column refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
 ### The remaining 13 features are described in the section below.
 
