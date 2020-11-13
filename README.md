@@ -106,21 +106,20 @@ Is a blood disorder passed down through families (inherited) in which the body m
 
 Heart Disease is one of the major concerns for society today. It is difficult to manually determine the odds of getting heart disease based on risk factors. However, machine learning techniques are useful to predict the output from existing data. 
 
-Based on analysis we found mid aged males are vulnerable to heart diseases than females. Also, Chest Pain, Max Heart Rate, and Thalassemia were the top features of this data. We recommend that both male and female above 40 do regular checking for heart disease so it can preventable at early stages. 
+Based on analysis we found mid aged males are vulnerable to heart diseases than females. Also, Chest Pain, Max Heart Rate, and Thalassemia were the top features of this data. We recommend that both male and female above 40 do regular checking for heart disease so it can preventable at early stages. Also, we suggest that when a patient is checking in, measure the importance features to identify any heart diseases.    
 
-Due to unusual very high scores in our models we had to investigate and eliminate 723 observations due to high multiple duplications. will would like to investigate further to make sure our model is not biased, and our dataset doesn’t have more duplicates inputs. Also, we highly recommend collecting more data on patients to make our model accurate and useful. 
+Due to unusual very high scores in our models we had to investigate and eliminate 723 observations due to high multiple duplications. We would like to investigate further to make sure our model is not biased, and our dataset doesn’t have more duplicates inputs. We suggest building a model that will prevent data duplicates from entering into the dataset. Also, we highly recommend collecting more similar data to make our model accurate and useful for identifying patients with heart disease. 
+
 
 
 ### Further Analysis:
 
 #### To continue this project, we would suggest:
 
-•	Augmenting the dataset with additional sources
+•	Find similar data sets that have lot more features to work with
 
 •	Re-collecting data as more becomes available
 
 •	Automating collection and analysis methods to always have up to date information
 
-•	Preventing data duplicates from entering into the dataset
-
-
+•	Consult with a healthcare expert to gain more knowledge about the dataset and features 
