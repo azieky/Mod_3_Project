@@ -103,7 +103,7 @@ Type 1: Typical angina. Type 2: Atypical angina. Type 3: Non-anginal pain. Type 
 
 #### Max Heart Rate: 
 
-Displays the max heart rate achieved by an individual. In our analyzation should that the increase in cardiovascular risk, associated with the acceleration of heart rate, was comparable to the increase in risk observed with high blood pressure. 
+Displays the max heart rate achieved by an individual. In our analyzation we saw that the increase in cardiovascular risk, associated with the acceleration of heart rate, was comparable to the increase in risk observed with high blood pressure. 
 
 ![alt text](data_visualizations/Max_Heart_Rate_1.png)
 
